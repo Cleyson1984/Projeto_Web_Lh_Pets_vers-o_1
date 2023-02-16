@@ -1,0 +1,13 @@
+D:\Projeto_Web_Lh_Pets_versao_1\Projeto_Web_Lh_Pets_versão_1\bin\Release\net7.0\publish\Projeto_Web_Lh_Pets_versão_1.exe
+D:\Projeto_Web_Lh_Pets_versao_1\Projeto_Web_Lh_Pets_versão_1\bin\Release\net7.0\publish\appsettings.Development.json
+D:\Projeto_Web_Lh_Pets_versao_1\Projeto_Web_Lh_Pets_versão_1\bin\Release\net7.0\publish\appsettings.json
+D:\Projeto_Web_Lh_Pets_versao_1\Projeto_Web_Lh_Pets_versão_1\bin\Release\net7.0\publish\Projeto_Web_Lh_Pets_versão_1.dll
+D:\Projeto_Web_Lh_Pets_versao_1\Projeto_Web_Lh_Pets_versão_1\bin\Release\net7.0\publish\Projeto_Web_Lh_Pets_versão_1.deps.json
+D:\Projeto_Web_Lh_Pets_versao_1\Projeto_Web_Lh_Pets_versão_1\bin\Release\net7.0\publish\Projeto_Web_Lh_Pets_versão_1.runtimeconfig.json
+D:\Projeto_Web_Lh_Pets_versao_1\Projeto_Web_Lh_Pets_versão_1\bin\Release\net7.0\publish\Projeto_Web_Lh_Pets_versão_1.pdb
+D:\Projeto_Web_Lh_Pets_versao_1\Projeto_Web_Lh_Pets_versão_1\bin\Release\net7.0\publish\System.Data.SqlClient.dll
+D:\Projeto_Web_Lh_Pets_versao_1\Projeto_Web_Lh_Pets_versão_1\bin\Release\net7.0\publish\runtimes\win-arm64\native\sni.dll
+D:\Projeto_Web_Lh_Pets_versao_1\Projeto_Web_Lh_Pets_versão_1\bin\Release\net7.0\publish\runtimes\win-x64\native\sni.dll
+D:\Projeto_Web_Lh_Pets_versao_1\Projeto_Web_Lh_Pets_versão_1\bin\Release\net7.0\publish\runtimes\win-x86\native\sni.dll
+D:\Projeto_Web_Lh_Pets_versao_1\Projeto_Web_Lh_Pets_versão_1\bin\Release\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projeto_Web_Lh_Pets_versao_1\Projeto_Web_Lh_Pets_versão_1\bin\Release\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
